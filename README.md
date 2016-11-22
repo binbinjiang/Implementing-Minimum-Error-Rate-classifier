@@ -1,0 +1,2 @@
+# Implementing-Minimum-Error-Rate-classifier
+the objective of this experiment is to classify some sample points using the posterior probabilities which uses Gaussian distribution to calculate the likelihood probabilities. The objective of this type of classifier is to minimize the error rate during classification. So this classifier takes decision based on the most posterior probabilities. This classifier is also known as Bayes classifier with minimum error.
